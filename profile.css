@@ -1,0 +1,26 @@
+#userbio{
+height:120px;
+width:100%;
+background-color:#0080ff;
+
+color:#ffffff;
+overflow:auto;
+
+}
+#dp{
+	float:left;
+	height:70px;
+	width:70px;
+	
+}
+.avatar {
+    padding:10px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+#profile{
+	padding-left:150px;
+	font-family:segoe script;
+	
+}

@@ -1,0 +1,40 @@
+body
+{
+background-image:url("F:/wamp/www/project/images/books.jpg");
+background-attachment: fixed;
+}
+
+#box
+{
+height:20px;
+width:500px;
+margin-left:10px;
+float:right;
+
+}
+
+#1
+{
+font-family:TIMES NEW ROMAN;
+font-size:54;
+color:RED;
+margin-right:50px;
+text-align:left;
+}
+
+#a{
+	background-color:#99e6e6;
+	height:70px;
+	width:100%;
+}
+#b{
+	margin-top:20px;
+	margin-left:70px;
+	margin-right:70px;
+	border-color:#0080ff;
+	border-radius:50px;
+	border-style:solid;
+	padding:30px;
+	
+	
+}
